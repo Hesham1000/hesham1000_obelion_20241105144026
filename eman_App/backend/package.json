@@ -12,18 +12,18 @@
     "license": "ISC",
     "dependencies": {
         "sequelize": "6.11.0",
+        "react": "latest",
         "express": "latest",
         "cors": "latest",
         "mysql": "latest",
-        "mysql2": "latest",
-        "react": "latest"
+        "mysql2": "latest"
     },
     "devDependencies": {
-        "bcrypt": "latest",
-        "sequelize-cli": "6.2.0",
-        "react": "latest",
         "sequelize": "6.3.5",
         "jest": "27.3.1",
-        "nodemon": "2.0.12"
+        "nodemon": "2.0.12",
+        "bcrypt": "latest",
+        "sequelize-cli": "6.2.0",
+        "react": "latest"
     }
 }
