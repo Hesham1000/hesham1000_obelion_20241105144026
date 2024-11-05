@@ -19,11 +19,12 @@
         "mysql2": "latest"
     },
     "devDependencies": {
-        "sequelize": "6.3.5",
-        "jest": "27.3.1",
-        "nodemon": "2.0.12",
+        "sequelize": "6.13.4",
+        "eslint": "7.32.0",
         "bcrypt": "latest",
         "sequelize-cli": "6.2.0",
-        "react": "latest"
+        "react": "latest",
+        "jest": "27.3.1",
+        "nodemon": "2.0.12"
     }
 }
